@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My purchases</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="your_phone">الرجال إدخال رقم جوالك للتسجيل بالتطبيق</string>
+    <string name="enter">ادخل رقم الجوال</string>
+    <string name="code">كود التفعيل</string>
+    <string name="done">تم ارسال كود التحقق إلى رقم هاتف</string>
+    <string name="phone_num">0594672121</string>
+    <string name="edit">تعديل</string>
+    <string name="automaticly">لست بحاجة إلى كتابة الكود سيتم كتابته تلقائياً</string>
+    <string name="commit">تأكيد</string>
+    <string name="your_code">05:00</string>
+    <string name="again">إعادة الإرسال</string>
+    <string name="code_num">0   0   0   0</string>
+    <string name="type_num">عدد الأصناف</string>
+    <string name="total">إجمال المبلغ</string>
+    <string name="shelel">شيكل</string>
+    <string name="enter_the_type">النص هنا لإسم الصنف</string>
+    <string name="price">السعر</string>
+    <string name="enter_price">ادخل سعر الشراء هنا</string>
+    <string name="delete">حذف</string>
+    <string name="production">مشترياتي</string>
+    <string name="clear">إفراغ</string>
+    <string name="surefromyourtype">تأكد من إدخال النوع و السعر</string>
+    <string name="enter_your_phonr">تأكد من إدخال رقم الجوال</string>
+</resources>
